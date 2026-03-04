@@ -1,0 +1,1 @@
+Acest proiect calculează distanța Manhattan între doi vectori citiți dintr-un fișier.
